@@ -34,6 +34,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <p>
 Allow anyone to create tickets: Admin Panel -> Settings -> User Settings
+<p>
 Registration Required: Require registration and login to create tickets 
 </p>
 <br />
