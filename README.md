@@ -33,7 +33,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/pEVUn8L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Admin Panel -> Settings -> User Settings
+Allow anyone to create tickets: Admin Panel -> Settings -> User Settings
 Registration Required: Require registration and login to create tickets 
 </p>
 <br />
